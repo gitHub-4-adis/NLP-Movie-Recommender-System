@@ -1,0 +1,6 @@
+The following datasets are used for getting data of individual movies and all of them are in .csv format
+just download and import both the files below for project to work. and generate a.pkl file in the end
+
+1. https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+2. https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata

@@ -1,0 +1,35 @@
+1. The Netflix Prize was an open competition for the best collaborative filtering algorithm to predict user ratings for films.
+
+2. It was an open contest for developeres to showcase their skills and improve netflix recommender system.
+
+3. Prizes were based on improvement over Netflix's own algorithm, called 'Cinematch', or the previous year's score if a team has made improvement beyond a certain threshold.
+
+4. Cinematch uses "straightforward statistical linear models with a lot of data conditioning."
+
+5. It was a progressive contest, whose final winning verdict was announced on June 26, 2009 to the team "BellKor's Pragmatic Chaos," a merger of teams "Bellkor in BigChaos" and "Pragmatic Theory," achieved a 10.05% improvement over Cinematch.
+
+6. On September 18, 2009, Netflix announced team "BellKor's Pragmatic Chaos" as the prize winner
+
+
+
+Word Embeddings in NLP
+Machine Learning algorithms and almost all Deep Learning Architectures are not capable of processing strings or plain text in their raw form. 
+
+they require numerical numbers as inputs to perform any sort of task, like classification, regression, clustering, etc.
+
+So to build any model in machine/deep learning, the final level data has to be in numerical form because models don’t understand text or image data directly as humans do.
+
+	Bag Of Words
+	This Text Vectorization technique converts text content to numerical feature vectors. Bag of Words takes a document from a corpus and converts it into a numeric vector by mapping each document word to a feature vector for the machine learning model.
+	It incorporates:
+
+	Tokenization
+	Vectors Creation
+
+
+Cosine Similarity
+Cosine similarity is a metric used to determine how similar the documents are irrespective of their size.
+
+Mathematically, It is  the cosine(angle) between 2 vectors projected in n-dimensional space.
+
+It is used to find similarity of objects to a given object (movie).
